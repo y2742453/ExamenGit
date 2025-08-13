@@ -1,0 +1,14 @@
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/bin/Debug/net9.0/ExamenGit
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/bin/Debug/net9.0/ExamenGit.deps.json
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/bin/Debug/net9.0/ExamenGit.runtimeconfig.json
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/bin/Debug/net9.0/ExamenGit.dll
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/bin/Debug/net9.0/ExamenGit.pdb
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.AssemblyInfoInputs.cache
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.AssemblyInfo.cs
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.csproj.CoreCompileInputs.cache
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.dll
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/refint/ExamenGit.dll
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.pdb
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ExamenGit.genruntimeconfig.cache
+/Users/ngogayann/Documents/ExamenGit/ExamenGit/obj/Debug/net9.0/ref/ExamenGit.dll
